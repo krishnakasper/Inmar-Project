@@ -1,4 +1,4 @@
-# Inmar-Project
+# Simple eKart Project
 
 Used Tech Stack:  
 FrontEnd: HTML, CSS, JS.  
